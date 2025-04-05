@@ -154,6 +154,9 @@ The application adheres to the following flow:
 ![Screenshot 2024-12-15 201417](https://github.com/user-attachments/assets/96116d2a-0f22-41fd-a037-c8d5dbd45558)
 
 
+## Contact
 
+For any inquiries or support, please contact:
+- uditmaurya2003@gmail.com
 
 
